@@ -3,7 +3,7 @@ Repostório BSI 2023.1 desenvolvimento web - Projeto Web-Art
 
 ## Web-Art
 Expositor de Artes Web
-Este projeto é um expositor de artes web, onde artistas podem exibir suas obras de arte online. Ele fornece uma plataforma para artistas compartilharem sua criatividade com o mundo e permite aos visitantes explorar obras de arte de sua preferência.
+Este projeto é um expositor de artes web, onde serão exibidos as mais famosas da história. Ele fornece uma plataforma para artistas compartilharem sua criatividade com o mundo e permite aos visitantes explorar obras de arte de sua preferência.
 
 ## Funcionalidades Principais
 * Exibição de obras de arte em destaque na página inicial.
