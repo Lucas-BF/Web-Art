@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: black;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	background-color: lightgray;
+}
+
+#card {
+	padding: 0 1rem;
+	border-radius: 15px;
+	
+	background-color: darkgray;
+}
+
+#card > .header {
+	text-align: center;
+	
+	margin: 1rem 0;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+form > div.row {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	
+	margin-bottom: 1rem;
+}
+
+form > div.row > label {
+	width: 100%;
+	
+	font-weight: 500;
+}
+
+form > div.row > input {
+	width: 100%;
+	
+	border: 1px solid darkgray;
+	background-color: lightgray;
+}
