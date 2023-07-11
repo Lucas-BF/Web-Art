@@ -12,4 +12,5 @@ Restriçoes e regras de negócio:
 
 3.Será permitido alteração futura.
 
+Diagrama de Classe:
 ![WebArt](https://github.com/Lucas-BF/Web-Art/assets/129331639/511470c7-2a42-4e6f-a302-583a7f4be559)
